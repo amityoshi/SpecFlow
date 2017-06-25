@@ -5,6 +5,9 @@ using System.Web;
 
 namespace SpecFlowGettingStartedUI.Models
 {
+	/// <summary>
+	///RPN Calculator logic
+	/// </summary>
 	public class RPNCalculator
 	{
 		private Stack<decimal> _stack;
